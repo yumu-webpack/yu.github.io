@@ -1,2 +1,0 @@
-# yu.github.io
-homepage
